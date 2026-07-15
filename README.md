@@ -34,13 +34,3 @@ Adidas Sales Dataset (public dataset)
 - Sales peaked in July 2021, with the state of Florida leading, and the men's apparel being the highest selling product. 
 - ...
 
-## Repository Structure
-
-├── Dashboard/
-│   └── Adidas Dashboard.twbx
-├── Data/
-│   └── Adidas Sales.xlsx
-├── Images/
-│   └── dashboard.png
-└── README.md
-I
